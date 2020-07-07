@@ -1,8 +1,8 @@
 /*
-*	Author:- Rahul Malhotra
+*	Author:- Wilson Xu
 *	Description:- This is the controller class for SFDC Stop Team Component
-*	Created:- 21-06-2020
-*	Last Updated:- 21-06-2020
+*	Created:- 07-07-2020
+*	Last Updated:- 07-07-2020
 *   Change Log:-
 *   SNo.        Name        Date        Description
 */
@@ -24,7 +24,7 @@ public class SFDCStopTeamController {
     }
 
     /*
-    *	Author:- Rahul Malhotra
+    *	Author:- Wilson Xu
     *	Description:- This method is used to return contributors data
     */
     @AuraEnabled(cacheable=true)
